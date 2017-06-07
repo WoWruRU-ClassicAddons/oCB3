@@ -1,0 +1,25 @@
+﻿## Interface: 11200
+## Title: oCB3 |cff7fff7f -Ace2-|r
+## Author: Haste, Athene
+## Notes: A casting bar replacement
+## Notes-frFR: Remplacement de la barre de cast.
+## Notes-ruRU: Полоса применений.
+## Notes-koKR: 시전바의 형태를 변경합니다.
+## Notes-zhTW: 取代原有的施法條。
+## Version: 3.3.3
+## DefaultState: Enabled
+## OptionalDeps: Ace2, DewdropLib
+## LoadOnDemand: 0
+## SavedVariables: oCBDB
+## Dependencies: !Libs
+
+Locale\oCB3.Locale.enUS.lua
+Locale\oCB3.Locale.ruRU.lua
+Locale\oCB3.Locale.koKR.lua
+Locale\oCB3.Locale.zhTW.lua
+
+oCB3.xml
+Core.lua
+Frame.lua
+Casting.lua
+Mirror.lua
